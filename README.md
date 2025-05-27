@@ -25,12 +25,5 @@ This project is useful for:
 
 ---
 
-## 🛠️ How to Get Started
 
-### 🔧 Requirements
-
-Make sure you have Python installed (version 3.6+ recommended). Then install the required libraries:
-
-```bash
-pip install numpy matplotlib
 
